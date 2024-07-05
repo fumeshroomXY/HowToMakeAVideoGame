@@ -1,0 +1,110 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX450 (ID=0x1f97)
+    Vendor:   NVIDIA
+    VRAM:     1928 MB
+    Driver:   30.0.15.1236
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\HowToMakeAVideoGame2\Builds\Windows\PiggyThon_Data\Managed\System.dll (this message is harmless)
+desktop: 2880x1800 90Hz; virtual: 2880x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.198800 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2878 -> priority: 1 
+  Thread -> id: 58a4 -> priority: 1 
+  Thread -> id: 3afc -> priority: 1 
+  Thread -> id: 5154 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.823000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 418.
+Total: 0.324500 ms (FindLiveObjects: 0.033000 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.261200 ms  DeleteObjects: 0.013500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.708100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 431.
+Total: 0.587100 ms (FindLiveObjects: 0.051300 ms CreateObjectMapping: 0.016900 ms MarkObjects: 0.506500 ms  DeleteObjects: 0.010900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.713100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 431.
+Total: 0.640900 ms (FindLiveObjects: 0.075500 ms CreateObjectMapping: 0.027000 ms MarkObjects: 0.526500 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.969600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.333700 ms (FindLiveObjects: 0.031400 ms CreateObjectMapping: 0.019800 ms MarkObjects: 0.273100 ms  DeleteObjects: 0.007900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.190400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.346200 ms (FindLiveObjects: 0.034700 ms CreateObjectMapping: 0.019500 ms MarkObjects: 0.284200 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.090000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.343200 ms (FindLiveObjects: 0.035900 ms CreateObjectMapping: 0.019300 ms MarkObjects: 0.279300 ms  DeleteObjects: 0.007000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.779600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.442800 ms (FindLiveObjects: 0.044100 ms CreateObjectMapping: 0.020300 ms MarkObjects: 0.371300 ms  DeleteObjects: 0.005600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.681100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.340300 ms (FindLiveObjects: 0.035400 ms CreateObjectMapping: 0.019400 ms MarkObjects: 0.276500 ms  DeleteObjects: 0.007900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.051000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.330900 ms (FindLiveObjects: 0.034600 ms CreateObjectMapping: 0.016100 ms MarkObjects: 0.272600 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.732400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.409400 ms (FindLiveObjects: 0.052400 ms CreateObjectMapping: 0.037400 ms MarkObjects: 0.310800 ms  DeleteObjects: 0.007400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.029300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 0.282400 ms (FindLiveObjects: 0.025200 ms CreateObjectMapping: 0.017500 ms MarkObjects: 0.231800 ms  DeleteObjects: 0.006900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.680600 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.549900 ms (FindLiveObjects: 0.022900 ms CreateObjectMapping: 0.037900 ms MarkObjects: 0.333100 ms  DeleteObjects: 0.154700 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
